@@ -50,9 +50,6 @@ module.exports = async function () {
             'ember-source': await getChannelURL('release'),
             '@ember/string': '^3.1.1',
           },
-          ember: {
-            edition: 'octane',
-          },
         },
       },
       {
@@ -62,9 +59,6 @@ module.exports = async function () {
             'ember-source': await getChannelURL('beta'),
             '@ember/string': '^3.1.1',
           },
-          ember: {
-            edition: 'octane',
-          },
         },
       },
       {
@@ -73,9 +67,6 @@ module.exports = async function () {
           devDependencies: {
             'ember-source': await getChannelURL('canary'),
             '@ember/string': '^3.1.1',
-          },
-          ember: {
-            edition: 'octane',
           },
         },
       },
