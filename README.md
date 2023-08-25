@@ -4,8 +4,8 @@
 
 ## Compatibility
 
-* Ember.js v3.8 or above
-* Ember CLI v3.8 or above
+* Ember.js v3.28 or above
+* Ember CLI v3.28 or above
 * Node.js v12 or above
 
 ## Tagged Template Usage / Migrating from `htmlbars-inline-precompile`
